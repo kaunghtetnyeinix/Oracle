@@ -1,0 +1,5 @@
+Data Retrival Language - Select from, where, group by
+Data Definition Language - Create, Alter, Drop
+Data Manipulation Language - Insert, Update, Delete
+Data Control Language - grant, revoke
+Transaction Control Language - commit, rollback, savepoint
